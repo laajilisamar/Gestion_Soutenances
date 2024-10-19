@@ -1,0 +1,721 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GestionSoutenances.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GestionSoutenances.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\css\\csstemp\\animate.css",
+      "PackagePath": "staticwebassets\\css\\csstemp\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\css\\csstemp\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\csstemp\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\css\\csstemp\\bootstrap-touch-slider.css",
+      "PackagePath": "staticwebassets\\css\\csstemp\\bootstrap-touch-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\css\\csstemp\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\csstemp\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\css\\csstemp\\colors.css",
+      "PackagePath": "staticwebassets\\css\\csstemp\\colors.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\css\\csstemp\\custom.css",
+      "PackagePath": "staticwebassets\\css\\csstemp\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\css\\csstemp\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\csstemp\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\css\\csstemp\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\csstemp\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\css\\csstemp\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\csstemp\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\css\\csstemp\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\csstemp\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\css\\csstemp\\pr_loading.css",
+      "PackagePath": "staticwebassets\\css\\csstemp\\pr_loading.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\css\\csstemp\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\csstemp\\prettyPhoto.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\css\\csstemp\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\csstemp\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\css\\csstemp\\timeline.min.css",
+      "PackagePath": "staticwebassets\\css\\csstemp\\timeline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\css\\csstemp\\versions.css",
+      "PackagePath": "staticwebassets\\css\\csstemp\\versions.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\about_02.jpg",
+      "PackagePath": "staticwebassets\\images\\about_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\about_03.jpg",
+      "PackagePath": "staticwebassets\\images\\about_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\images\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\arrow-left.svg",
+      "PackagePath": "staticwebassets\\images\\arrow-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\images\\arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\author.jpg",
+      "PackagePath": "staticwebassets\\images\\author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\avatar-01.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\avatar-02.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\avatar-03.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\bg.png",
+      "PackagePath": "staticwebassets\\images\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\blog_1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\blog_2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\blog_3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\blog_4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\blog_5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\blog_6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\blog_single.jpg",
+      "PackagePath": "staticwebassets\\images\\blog_single.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\img-01.jpg",
+      "PackagePath": "staticwebassets\\images\\img-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\img-02.jpg",
+      "PackagePath": "staticwebassets\\images\\img-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\img-03.jpg",
+      "PackagePath": "staticwebassets\\images\\img-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\img-04.jpg",
+      "PackagePath": "staticwebassets\\images\\img-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\logo_01.png",
+      "PackagePath": "staticwebassets\\images\\logo_01.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\logo_02.png",
+      "PackagePath": "staticwebassets\\images\\logo_02.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\logo_03.png",
+      "PackagePath": "staticwebassets\\images\\logo_03.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\logo_04.png",
+      "PackagePath": "staticwebassets\\images\\logo_04.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\logo_05.png",
+      "PackagePath": "staticwebassets\\images\\logo_05.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\logo_06.png",
+      "PackagePath": "staticwebassets\\images\\logo_06.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\parallax_04.jpg",
+      "PackagePath": "staticwebassets\\images\\parallax_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\dark_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\dark_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\dark_rounded\\contentPattern.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\contentPattern.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\dark_rounded\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\dark_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\dark_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\dark_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\dark_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\dark_square\\contentPattern.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\contentPattern.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\dark_square\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\dark_square\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\dark_square\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\default\\default_thumb.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\default_thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\default\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\default\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\default\\sprite_next.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite_next.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\default\\sprite_prev.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite_prev.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\default\\sprite_x.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite_x.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\default\\sprite_y.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite_y.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\facebook\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\facebook\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\facebook\\contentPatternBottom.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\contentPatternBottom.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\facebook\\contentPatternLeft.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\contentPatternLeft.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\facebook\\contentPatternRight.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\contentPatternRight.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\facebook\\contentPatternTop.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\contentPatternTop.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\facebook\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\facebook\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\facebook\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\light_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\light_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\light_rounded\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\light_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\light_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\light_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\light_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\light_square\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\light_square\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\prettyPhoto\\light_square\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\slider-01.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\slider-02.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\slider-03.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\team-01.png",
+      "PackagePath": "staticwebassets\\images\\team-01.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\team-02.png",
+      "PackagePath": "staticwebassets\\images\\team-02.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\team-03.png",
+      "PackagePath": "staticwebassets\\images\\team-03.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\team-04.png",
+      "PackagePath": "staticwebassets\\images\\team-04.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\testi_01.png",
+      "PackagePath": "staticwebassets\\images\\testi_01.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\testi_02.png",
+      "PackagePath": "staticwebassets\\images\\testi_02.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\testi_03.png",
+      "PackagePath": "staticwebassets\\images\\testi_03.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\images\\world-map.png",
+      "PackagePath": "staticwebassets\\images\\world-map.png"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\js\\jstemp\\01-custom-places-example.js",
+      "PackagePath": "staticwebassets\\js\\jstemp\\01-custom-places-example.js"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\js\\jstemp\\all.js",
+      "PackagePath": "staticwebassets\\js\\jstemp\\all.js"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\js\\jstemp\\custom.js",
+      "PackagePath": "staticwebassets\\js\\jstemp\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\js\\jstemp\\mapsed.js",
+      "PackagePath": "staticwebassets\\js\\jstemp\\mapsed.js"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\js\\jstemp\\modernizer.js",
+      "PackagePath": "staticwebassets\\js\\jstemp\\modernizer.js"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\js\\jstemp\\timeline.min.js",
+      "PackagePath": "staticwebassets\\js\\jstemp\\timeline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ajili\\source\\repos\\GestionSoutenances\\GestionSoutenances\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GestionSoutenances.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GestionSoutenances.props",
+      "PackagePath": "build\\GestionSoutenances.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GestionSoutenances.props",
+      "PackagePath": "buildMultiTargeting\\GestionSoutenances.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GestionSoutenances.props",
+      "PackagePath": "buildTransitive\\GestionSoutenances.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
